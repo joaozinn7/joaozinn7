@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on javascript
 
-I’m currently learning tudo que e possivel
+I’m currently learning everything that is possible
 <!--
 **joaozinn7/joaozinn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
