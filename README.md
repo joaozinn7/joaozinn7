@@ -2,6 +2,8 @@
 📫 How to reach me: joaopedro190657@gmail.com
 
 🔭 I’m currently working on javascript
+
+I’m currently learning tudo que e possivel
 <!--
 **joaozinn7/joaozinn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
