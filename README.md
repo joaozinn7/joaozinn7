@@ -1,5 +1,5 @@
 ## Hi there joaozinn77👋
-
+📫 How to reach me: joaopedro190657@gmail.com
 <!--
 **joaozinn7/joaozinn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
